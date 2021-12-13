@@ -1,1 +1,2 @@
-dev test
+ryu:
+  value: testSuccess
